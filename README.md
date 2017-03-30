@@ -29,3 +29,7 @@ module.exports = {
 `node bot.js`
 
 Hopefully at this point you see a message like "Success! Check your bot, it should have retweeted something." Check the Twitter account for your bot, and it should have retweeted a tweet with the #whateverhashtagyouwant hashtag.
+
+![In Action](https://dl.dropboxusercontent.com/u/32232546/Screen%20Shot%202017-03-30%20at%202.07.45%20PM.png "In Action")
+
+
