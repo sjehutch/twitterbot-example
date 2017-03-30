@@ -8,7 +8,7 @@ This bot retweets the latest tweet using the "#whateverhashtagyouwant" hashtag. 
 1. `npm install twit`
 1. update the config.js to your twitter keys
 1. run ```node bot.js```
-1.  let the good times roll
+1. let the good times roll
 
 This installs some code to the `npm_modules` subdirectory, which you don't need to worry about. (It's Twit, the library that lets us talk to Twitter.)
 
