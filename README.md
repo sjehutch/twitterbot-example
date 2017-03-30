@@ -4,7 +4,6 @@ This bot retweets the latest tweet using the "#whateverhashtagyouwant" hashtag. 
 
 ## Installation
 
-
 `npm install twit`
 
 This installs some code to the `npm_modules` subdirectory, which you don't need to worry about. (It's Twit, the library that lets us talk to Twitter.)
